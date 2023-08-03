@@ -8,20 +8,20 @@ This is a simple shell script to check the status of websites and log the result
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone ,https://github.com/Adesopequizzify/Website-Status-Checker.git
 cd <repository_name>
 ```
 
 2. Make the script executable:
 
 ```bash
-chmod +x website_status.sh
+chmod +x web.sh
 ```
 
 3. Run the script:
 
 ```bash
-./website_status.sh
+./web.sh
 ```
 
 4. Enter the website URLs you want to check, separated by a space, and press Enter.
@@ -33,7 +33,7 @@ chmod +x website_status.sh
 Let's check the status of some example websites:
 
 ```bash
-./website_status.sh
+./web.sh
 ```
 
 You will be prompted to enter the website URLs. For example:
